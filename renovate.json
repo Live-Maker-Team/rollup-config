@@ -1,0 +1,3 @@
+{
+  "extends": ["github>Live-Maker-Team/renovate-config"]
+}
