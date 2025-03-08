@@ -21,12 +21,12 @@
     "husky": "7.0.4",
     "lint-staged": "12.5.0",
     "prettier": "2.8.8",
-    "rollup": "2.79.1",
+    "rollup": "4.35.0",
     "semantic-release": "19.0.5",
     "typescript": "4.9.5"
   },
   "peerDependencies": {
-    "rollup": "^2.x",
+    "rollup": "^2.x || ^4.0.0",
     "typescript": "^4.x"
   },
   "scripts": {
